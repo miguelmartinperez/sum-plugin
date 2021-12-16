@@ -1,0 +1,3 @@
+[submodule "sum"]
+	path = sum
+	url = git@github.com:reverseame/sum-plugin.git
