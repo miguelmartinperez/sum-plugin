@@ -10,6 +10,8 @@ A Similarity Digest Algorithm (also known as approximate matching algorithm) ide
 
 At the moment of this writing, the algorithms included in this plugin are `ssdeep`, `SDhash`, and `TLSH`
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 ## Installation
 
 You can clone `sum-plugin` with its depecencise with:\
